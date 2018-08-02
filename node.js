@@ -3,6 +3,7 @@ instead of :  _.forEach(newdata, async function (value, key) {})
 
 // jsreport is just an api you have to design report and send data from node to it.
 
+// wasted 2 hours on Date.now
 
 // unix to date conversion 
 
