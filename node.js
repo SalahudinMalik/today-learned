@@ -23,3 +23,5 @@ instead of :  _.forEach(newdata, async function (value, key) {})
 if(!0){// its true
         // it return true
 }
+
+//used node i xlxs
